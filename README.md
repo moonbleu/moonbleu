@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @moonbleu
-- 👀 I’m interested in py, js, and game development
-- 🌱 I’m currently learning py, and js
+- 👀 I’m interested in c/c++
+- 🌱 I’m currently learning godot
