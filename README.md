@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @moonbleu
-- 👀 I’m interested in c/c++
-- 🌱 I’m currently learning godot
+Hi.
