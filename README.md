@@ -1,3 +1,5 @@
-testing vim hello there!
+hello there! im moonbleu/neil domingo
 
-ayabyu baby ko
+im a hobbyist programmer trying things out!
+
+testing testing
